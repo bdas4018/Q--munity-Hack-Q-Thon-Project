@@ -14,4 +14,4 @@ Hence, the main motivation was to improve upon existing heursitic algorithms lik
 
 Here, the implementations of WS-QAOA and WS-QAOA w/ INTERP (on two simulators, namely : statevector_simulator and
 qasm_simulator) are present and later on their performances are analysed in terms of depth (p) and running time complexity while comparing with
-standard QAOA and QAOA w/ INTERP. This also contains noisy simulations (wherein a “noise model” from an actual quantum device was incorporated.) of the variants. 
+standard QAOA and QAOA w/ INTERP. This also contains noisy simulations (wherein a “noise model” from an actual quantum device, from "ibmq_16_melbourne" was incorporated) of the variants. 
